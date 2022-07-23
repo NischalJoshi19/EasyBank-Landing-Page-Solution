@@ -11,7 +11,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: [https://your-solution-url.com](https://github.com/NischalJoshi19/EasyBank-Landing-Page-Solution/)
+- Live Site URL: [https://your-live-site-url.com](https://easy-bank-landing-page-solution.vercel.app/)
 
 ## My process
 
@@ -76,11 +75,6 @@ Working on the project was a good practice in positioning elements on the screen
 }
 ```
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@NischalJoshi19](https://www.frontendmentor.io/profile/NischalJoshi19)
